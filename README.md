@@ -1,7 +1,7 @@
 # Automatización 
 ## Python-Selenium
 
-Este proyecto de automatización fue realizado como prueba tecnica, abre la pagina de inicio de la web [https://www.consultoriaglobal.com.ar/cgweb/](https://www.consultoriaglobal.com.ar/cgweb/)
+Este proyecto de automatización fue realizado como prueba tecnica, abre la pagina de inicio de [https://www.consultoriaglobal.com.ar/cgweb/](https://www.consultoriaglobal.com.ar/cgweb/)
 
 Navega hacia la sección de contacto, completa el formulario ingresando un email falso y comprueba que el email se haya validado como incorrecto.
 
