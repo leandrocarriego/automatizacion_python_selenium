@@ -24,8 +24,14 @@ Sigue los siguientes pasos para clonar y ejecutar este proyecto en tu entorno lo
 
    ```bash data-copyable
     git clone https://github.com/leandrocarriego/automatizacion_python_selenium.git
+
+2. **Prepara tu entorno virtual** 
+  
+   ```python data-copyable
+    python -m venv venv
+
    
-2. **Instalar dependencias:**
+3. **Instalar dependencias:**
     
     ```bash data-copyable
    pip install -r requirements.txt
